@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @NicolasBachs
+👋 &nbsp; Hi, I'm [@Nicolás Bachs](https://www.linkedin.com/in/nicolas-bachs/). 
+
+🎒 &nbsp; I'm a Computer Engineer from  [Argentina](https://www.google.com/maps/place/Argentina/). 
+
+💼 &nbsp; I'm currently working as a Software Engineer for [MercadoLibre](https://www.mercadolibre.com/).
+
+🌀 &nbsp; Would you like to contact me? Just send me an email to [nicolas.bachs@gmail.com](https://gmail.com)
 
 <!---
 - 👀 I’m interested in ...
