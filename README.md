@@ -1,8 +1,8 @@
 👋 &nbsp; Hi, I'm [@Nicolás Bachs](https://www.linkedin.com/in/nicolas-bachs/). 
 
-🎒 &nbsp; I'm a Computer Engineer from  [Argentina](https://www.google.com/maps/place/Argentina/). 
+🎒 &nbsp; I'm a Computer Engineer from Argentina. 
 
-💼 &nbsp; I'm currently working as a Software Engineer for [MercadoLibre](https://www.mercadolibre.com/).
+💼 &nbsp; I'm currently working as a Senior Software Engineer for [Kavak](https://www.kavak.com/).
 
 🌀 &nbsp; Would you like to contact me? Just send me an email to [nicolas.bachs@gmail.com](https://gmail.com)
 
